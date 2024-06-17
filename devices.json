@@ -1,0 +1,14 @@
+{
+ "credentials": {
+   "user": "root",
+   "password": "arrcus"
+ },
+ "devices": [
+   {
+     "ip_address": "10.25.106.21"
+   },
+   {
+     "ip_address": "10.25.106.22"
+   }
+ ]
+}
